@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="gift_green">#8bb92f</color>
+	<color name="gift_green_darker">#719f17</color>
+	<color name="gift_red">#b92f2f</color>
+	<color name="gift_red_darker">#a11419</color>
+	<color name="gift_red_darkest">#6a0c11</color>
+	<color name="dark_gray">#888888</color>
+</resources>

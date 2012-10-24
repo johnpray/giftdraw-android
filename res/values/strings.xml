@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GiftDraw</string>
+    <string name="add_person">Add Person</string>
+    <string name="edit_people">Edit People</string>
+    <string name="draw_names">Draw Names</string>
+    <string name="name_prompt">What is your name?</string>
+    <string name="name">Name</string>
+    <string name="group">Group</string>
+    <string name="you_drew_">You drew…</string>
+    <string name="save_and_add_another">Save and Add</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="edit_person_name_hint">A name unique to this person.</string>
+    <string name="edit_person_group_hint">Members of the same group will never be chosen to give gifts to one another. For example, groups can be used when doing an extended family drawing to make sure spouses don\'t draw each other\'s names.</string>
+    <string name="edit_person">Edit Person</string>
+    <string name="delete">Delete</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="delete_everyone_">Delete everyone?</string>
+    <string name="cannot_be_undone">WARNING: This cannot be undone! If you have performed a drawing, make sure everyone has seen and remembers their giftees.</string>
+    <string name="delete_all">Delete all</string>
+    <string name="problem_drawing_message">There was a problem getting the names ready. Do your groups allow a proper drawing?</string>
+    <string name="try_again">Try again</string>
+    <string name="i_ll_check">I\'ll check</string>
+    <string name="uh_oh">Uh-oh…</string>
+    <string name="your_names_are">your names are</string>
+    <string name="send_results">Email them to me</string>
+    <string name="i_ll_remember">I\'ll remember</string>
+    <string name="and">and</string>
+    <string name="send_email_using">Send email using</string>
+    <string name="email_subject">your drawn names are…</string>
+    <string name="redraw">Redo Drawing</string>
+
+</resources>

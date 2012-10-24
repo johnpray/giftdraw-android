@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.johnpray.giftdraw.widget.DashboardLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/DashboardLayout1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" android:background="@drawable/background_gift_green">
+
+    <Button
+        android:id="@+id/buttonDrawNames"
+        style="@style/buttonDashboard"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableTop="@drawable/ic_dashboard_gift"
+        android:text="@string/draw_names" />
+
+    <Button
+        android:id="@+id/buttonEditPeople"
+        style="@style/buttonDashboard"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableTop="@drawable/ic_dashboard_gingerbread"
+        android:text="@string/edit_people" />
+
+</com.johnpray.giftdraw.widget.DashboardLayout>

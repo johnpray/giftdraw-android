@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<style name="Theme.GiftWrap" parent="Theme.Sherlock.Light">
+	    <item name="abBackground">@drawable/background_gift_red</item>
+	    <item name="abTitleTextStyle">@style/textActionBarTitle</item>
+	    <item name="abSubtitleTextStyle">@style/textActionBarSubtitle</item>
+	    <item name="selectableItemBackground">@drawable/actionitembg_gift_green</item>
+	</style>
+	
+	<style name="textActionBarTitle" parent="@android:style/TextAppearance.Large">
+	    <item name="android:textColor">@android:color/white</item>
+	    <item name="android:shadowColor">@android:color/black</item>
+	    <item name="android:shadowDx">0</item>
+	    <item name="android:shadowDy">0</item>
+	    <item name="android:shadowRadius">2</item>
+	</style>
+	
+	<style name="textActionBarSubtitle" parent="@android:style/TextAppearance.Medium">
+	    <item name="android:textColor">@android:color/white</item>
+	</style>
+    
+	<style name="buttonDashboard" parent="android:Widget.Button">
+		<item name="android:background">@drawable/dashitem_gift_red</item>
+		<item name="android:textAppearance">?android:attr/textAppearanceLarge</item>
+		<item name="android:textColor">@android:color/white</item>
+		<item name="android:shadowColor">@android:color/black</item>
+		<item name="android:shadowDx">0</item>
+	    <item name="android:shadowDy">0</item>
+	    <item name="android:shadowRadius">3</item>
+	</style>
+</resources>
