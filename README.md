@@ -7,3 +7,4 @@ This limited, buggy version of GiftDraw for Android lets you add people, put the
 
 GiftDraw for Android requires that [ActionBarSherlock](http://actionbarsherlock.com/) be included as a library project in order to compile. At the time I was last working on it, GiftDraw was using ABS 3.4.0, though more recent versions may work.
 
+ICONS CREDIT: Some icons in GiftDraw for Android are from the [Christmas XP icon pack](http://findicons.com/pack/232/christmas_xp) by Jojo Mendoza.
